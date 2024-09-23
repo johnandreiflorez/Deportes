@@ -7,7 +7,7 @@ class Conexion:
         Server=localhost;
         Database=deportes;
         PORT=3306;
-        user=itm;
+        user=Admin;
         password=Qwer.1234""";
     
     parametros_salidas: str='';
